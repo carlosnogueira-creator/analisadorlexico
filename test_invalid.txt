@@ -1,0 +1,6 @@
+programa erro;
+inteiro @x = 10;
+escreva("string nao fechada);
+inteiro y = 20;
+$
+fim

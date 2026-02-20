@@ -1,0 +1,10 @@
+programa teste;
+// Comentario de linha
+inteiro x = 10;
+flutuante y = 1.2e-5;
+/* Comentario
+   multi-linha */
+se (x > 5 && y < 1.0) entao
+  escreva("ola mundo \"escapado\"");
+fimse
+fim
